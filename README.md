@@ -52,6 +52,11 @@ Players explore an interactive world where mathematical challenges act as keys t
 
 ---
 
+UniProject.rar contains the compiled build of the Proof of Concept.
+1. Download
+2. Extract
+3. Run UNIPROJECT.exe
+
 ## 📖 Academic Documentation
 
 The complete theoretical background, pedagogical analysis, and system specifications are available in the repository documentation folder (`/docs`).
